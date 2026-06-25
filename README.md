@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="AI & Machine Learning" width="100%"/>
 
-### A curated portfolio of deep learning labs and applied projects — from first principles to production-style pipelines
+### A curated portfolio of deep learning labs and applied projects — from first principles to production-style pipelines.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
