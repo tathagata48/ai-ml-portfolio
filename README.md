@@ -11,9 +11,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/tathagata48/Al_-_ML?style=flat-square&color=8b5cf6" alt="last commit"/>
-  <img src="https://img.shields.io/github/languages/top/tathagata48/Al_-_ML?style=flat-square&color=06b6d4" alt="top language"/>
-  <img src="https://img.shields.io/github/repo-size/tathagata48/Al_-_ML?style=flat-square&color=f59e0b" alt="repo size"/>
+  <img src="https://img.shields.io/github/last-commit/tathagata48/ai-ml-portfolio?style=flat-square&color=8b5cf6" alt="last commit"/>
+  <img src="https://img.shields.io/github/languages/top/tathagata48/ai-ml-portfolio?style=flat-square&color=06b6d4" alt="top language"/>
+  <img src="https://img.shields.io/github/repo-size/tathagata48/ai-ml-portfolio?style=flat-square&color=f59e0b" alt="repo size"/>
 </p>
 
 </div>
@@ -65,7 +65,7 @@ Applied notebooks that take a task end-to-end on real-world data.
 ## 🗂️ Repository Structure
 
 ```
-Al_-_ML/
+ai-ml-portfolio/
 ├── machine-learning-labs/
 │   ├── 01-classification.ipynb
 │   ├── 02-image-segmentation.ipynb
@@ -108,8 +108,8 @@ pre-installed libraries, so the notebooks run with little to no setup.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/tathagata48/Al_-_ML.git
-cd Al_-_ML
+git clone https://github.com/tathagata48/ai-ml-portfolio.git
+cd ai-ml-portfolio
 
 # 2. (Recommended) create a virtual environment
 python -m venv .venv
